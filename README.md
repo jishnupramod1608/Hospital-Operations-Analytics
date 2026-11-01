@@ -8,7 +8,7 @@ An interactive Power BI dashboard was developed using SQL and DAX to convert raw
 
 ## Dataset
 - **Dataset:** Hospital Emergency Room Visits
-- **Source:** Kaggle
+- **Source:** [Kaggle – Hospital Emergency Dataset](https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset)
 - **Total Records:** 9,216
 - **Format:** CSV
 
