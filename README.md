@@ -6,6 +6,16 @@ This project focuses on analyzing hospital emergency room data to understand pat
 
 An interactive Power BI dashboard was developed using SQL and DAX to convert raw hospital data into meaningful insights that can support data-driven operational decisions.
 
+## Dataset
+- **Dataset:** Hospital Emergency Room Visits
+- **Source:** Kaggle
+- **Total Records:** 9,216
+- **Format:** CSV
+
+The dataset includes patient demographics, admission status, department referrals, waiting times, and satisfaction scores.
+
+The data was cleaned and transformed using SQL and Power Query before being analyzed in Power BI.
+
 ## Project Objectives
 - Analyze total patient visits and admission rates.
 - Understand patient distribution by age group, gender, and race.
