@@ -22,7 +22,7 @@ An interactive Power BI dashboard was developed using SQL and DAX to convert raw
 
 ## Dashboard Preview
 
-![Hospital Operations Dashboard](Dashboard/hospital_operations_dashboard.png)
+![Hospital Operations Dashboard](health%20care%20dashboard.png)
 
 ## Key Performance Indicators
 - Total Patient Visits
